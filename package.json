@@ -1,0 +1,9 @@
+{
+  "name": "anthonyshort-date-suffix",
+  "description": "Given a Date object, get the suffixed date back",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
